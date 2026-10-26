@@ -22,7 +22,7 @@ I'm a 4th-year Artificial Intelligence student at BSUIR (Minsk) looking for a **
 ### Tech stack
 
 **ML / AI:** PyTorch, scikit-learn, pandas, NumPy, OpenCV, LangChain, LangGraph, ChromaDB, Ollama<br>
-**Backend:** Python, FastAPI, Flask, SQLAlchemy, Alembic, Pydantic, SQLite, pytest<br>
+**Backend:** Python, FastAPI, Flask, SQL (basic), SQLAlchemy, Alembic, Pydantic, SQLite, pytest<br>
 **Tools:** Git, Docker, Linux, Google Colab
 
 ### Contacts
