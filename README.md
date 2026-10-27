@@ -27,4 +27,4 @@ I'm a 4th-year Artificial Intelligence student at BSUIR (Minsk) looking for a **
 
 ### Contacts
 
-Email: `your.email@example.com` &middot; Telegram: `@your_telegram` &middot; [LinkedIn](https://www.linkedin.com/in/your-profile)
+Email: [danik.koptelev@gmail.com](mailto:danik.koptelev@gmail.com) &middot; Telegram: [@sadwavess](https://t.me/sadwavess)
