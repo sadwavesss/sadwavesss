@@ -6,7 +6,7 @@ I'm a 4th-year Artificial Intelligence student at BSUIR (Minsk) looking for a **
 - Currently building **Financial Assistant** &mdash; a FastAPI app for personal finance with exchange-rate
   integration; ML-based spending analytics in progress
 - Open to internships and junior positions, Minsk or remote
-- English: B1
+- English: B1; Russian: Native
 
 ### Projects
 
